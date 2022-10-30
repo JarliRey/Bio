@@ -1,0 +1,44 @@
+*{
+    background-color: rgb(8, 8, 8);
+    }
+    
+    #imgPerfil{
+        width: 20%;
+        height: 20%;
+        border-radius: 50%;
+        border: solid 3px;
+        
+       
+        
+    
+        }
+    
+        #img2{
+            width: 35%;
+            height: 35%;
+            border-radius: 100%;
+        }
+        #titulo{
+            text-decoration: underline;
+            color: aliceblue;
+            text-align: center;
+        }
+
+    #biografia{
+        width: 70%;
+        text-align: justify;
+    }
+
+    #title{
+        color: rgb(255, 255, 255);
+        text-align: center;
+    }
+    
+    #list{
+        text-align: center;
+    }
+
+    #parrafo{
+        color: aliceblue;
+        text-align: center;
+    }
